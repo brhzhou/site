@@ -4,9 +4,13 @@ body {
     margin: 2%;
 }
 
+#title {
+    font-size: 100px;
+}
+
 #profile {
     border-radius: 50%;
-    display: inline-block;
+    display: inline;
 }
 
 #bio {
