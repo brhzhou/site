@@ -1,6 +1,9 @@
+html * {
+    font-family: sans-serif;
+}
+
 body {
     background-color: #ffffff;
-
     margin: 2%;
 }
 
