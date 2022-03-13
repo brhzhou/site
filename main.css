@@ -4,7 +4,6 @@ html * {
 
 body {
     background-color: #f4ffb8;
-    margin: 2%;
 }
 
 #title {
@@ -12,11 +11,12 @@ body {
 }
 
 #bio-title {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 #bio {
-    font-size: 30px;
+    font-size: 27px;
+    width: 750px;
 }
 
 #profile {
@@ -26,19 +26,21 @@ body {
 }
 
 .btn {
+    --size: 150px;
     display: inline-block;
     text-decoration: none;
-    background: black;
-    color: white;
-    width: 130px;
-    height: 130px;
-    line-height: 130px;
+    background: white;
+    color: black;
+    width: var(--size);
+    height: var(--size);
+    line-height: var(--size);
     border-radius: 50%;
     text-align: center;
     font-weight: bold;
     font-size: 20px;
     vertical-align: middle;
     overflow: hidden;
+    border: solid 3px black;
 }
 
 .main {
