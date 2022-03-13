@@ -26,6 +26,7 @@ body {
     border-radius: 50%;
     display: inline;
     margin-right: 100px;
+    border: solid 4px black;
 }
 
 #buttons {
@@ -56,12 +57,4 @@ body {
     align-items: flex-start;
     justify-content: center;
     margin: 100px;
-}
-
-ul.horizontal {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
 }
