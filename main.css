@@ -57,3 +57,11 @@ body {
     justify-content: center;
     margin: 100px;
 }
+
+ul.horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
