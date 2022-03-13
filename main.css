@@ -1,5 +1,5 @@
 body {
-    background-color: #eeffb1;
+    background-color: #ffffff;
 
     margin: 2%;
 }
@@ -12,7 +12,7 @@ body {
 #bio {
     font-size: larger;
 }
-
+/* COMMENTS */
 .btn {
     display: inline-block;
     text-decoration: none;
