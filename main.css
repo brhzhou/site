@@ -48,6 +48,7 @@ body {
     vertical-align: middle;
     overflow: hidden;
     border: solid 3px black;
+    margin-right: 20px;
 }
 
 .main {
